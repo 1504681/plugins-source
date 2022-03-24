@@ -1,5 +1,5 @@
 # plugins-source
-Plugins for [OpenOSRS](https://github.com/open-osrs), to be added with ExternalManager.
+Plugins for [OpenOSRS](https://github.com/open-osrs/runelite), to be added with ExternalManager.
 
 
 1) Guardians of the Rift Helper
