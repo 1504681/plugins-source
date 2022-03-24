@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Plugin-Version: 4.2.0
+Plugin-Id: guardiansoftherifthelper-plugin
+Plugin-Provider: OpenOSRS
+Plugin-Description: GuardiansOfTheRift
+Plugin-License: 3-Clause BSD License
+

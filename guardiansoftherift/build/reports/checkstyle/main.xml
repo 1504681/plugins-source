@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.1">
+<file name="C:\Users\Owner\IdeaProjects\plugins\guardiansoftherift\src\main\java\net\runelite\client\plugins\guardiansoftherift\GuardiansOfTheRiftConfig.java">
+</file>
+<file name="C:\Users\Owner\IdeaProjects\plugins\guardiansoftherift\src\main\java\net\runelite\client\plugins\guardiansoftherift\GuardiansOfTheRiftInfoBox.java">
+</file>
+<file name="C:\Users\Owner\IdeaProjects\plugins\guardiansoftherift\src\main\java\net\runelite\client\plugins\guardiansoftherift\GuardiansOfTheRiftPlugin.java">
+<error line="29" severity="error" message="There should not be empty lines in the imports list" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpMultilineCheck"/>
+<error line="30" column="16" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - java.awt.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+<error line="32" severity="error" message="There should not be empty lines in the imports list" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpMultilineCheck"/>
+<error line="35" column="24" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - net.runelite.api.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+<error line="36" severity="error" message="There should not be empty lines in the imports list" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpMultilineCheck"/>
+<error line="37" column="17" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - java.lang.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+<error line="40" severity="error" message="There should not be empty lines in the imports list" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpMultilineCheck"/>
+<error line="41" column="31" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - net.runelite.api.events.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+<error line="60" column="54" severity="error" message="&apos;{&apos; at column 54 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="82" column="77" severity="error" message="&apos;{&apos; at column 70 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="113" column="78" severity="error" message="&apos;{&apos; at column 71 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="113" column="78" severity="error" message="&apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="115" column="40" severity="error" message="&apos;{&apos; at column 26 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="116" column="80" severity="error" message="&apos;{&apos; at column 59 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="116" column="80" severity="error" message="&apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="117" column="70" severity="error" message="&apos;{&apos; at column 42 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="117" column="70" severity="error" message="&apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="118" column="64" severity="error" message="&apos;{&apos; at column 29 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="121" column="60" severity="error" message="&apos;{&apos; at column 25 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="123" column="41" severity="error" message="&apos;}&apos; at column 6 should be alone on a line." source="com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck"/>
+<error line="123" column="41" severity="error" message="&apos;}&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="123" column="42" severity="error" message="&apos;else&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="123" column="42" severity="error" message="&apos;else&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="123" column="46" severity="error" message="&apos;{&apos; at column 11 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="123" column="46" severity="error" message="&apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="133" column="55" severity="error" message="&apos;{&apos; at column 48 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="135" column="43" severity="error" message="&apos;{&apos; at column 22 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="140" column="64" severity="error" message="&apos;{&apos; at column 43 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="144" column="43" severity="error" message="&apos;{&apos; at column 22 should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+</file>
+</checkstyle>

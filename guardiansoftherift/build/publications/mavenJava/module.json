@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs.externals",
+    "module": "guardiansoftherift",
+    "version": "4.2.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "guardiansoftherift-4.2.0.jar",
+          "url": "guardiansoftherift-4.2.0.jar",
+          "size": 4969,
+          "sha512": "594d7186b510f212fdeaf8e94a54b511aafada13aaafbd8e31b68756f9cb62fa729d9952f57b7d11110b84c75818a4186478bd98cdc83662c438df6213b53a2f",
+          "sha256": "b9d2f91c330bdaf5037e095683783c8ab4eec3908143bce6fbeab652c0bde4bc",
+          "sha1": "9bcf338d6fc15abd3148f00889e115c07bd1b61b",
+          "md5": "0cd1edf1da60dd5eecfa803a37b169b1"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "guardiansoftherift-4.2.0.jar",
+          "url": "guardiansoftherift-4.2.0.jar",
+          "size": 4969,
+          "sha512": "594d7186b510f212fdeaf8e94a54b511aafada13aaafbd8e31b68756f9cb62fa729d9952f57b7d11110b84c75818a4186478bd98cdc83662c438df6213b53a2f",
+          "sha256": "b9d2f91c330bdaf5037e095683783c8ab4eec3908143bce6fbeab652c0bde4bc",
+          "sha1": "9bcf338d6fc15abd3148f00889e115c07bd1b61b",
+          "md5": "0cd1edf1da60dd5eecfa803a37b169b1"
+        }
+      ]
+    }
+  ]
+}
