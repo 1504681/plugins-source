@@ -31,11 +31,11 @@ import net.runelite.client.ui.overlay.infobox.InfoBoxPriority;
 
 class GuardiansOfTheRiftInfoBox extends InfoBox
 {
-	private final GuardiansOfTheRiftPlugin littleGuyAiPlugin;
+	private final GuardiansOfTheRiftPlugin guardiansOfTheRiftPlugin;
 
-	GuardiansOfTheRiftInfoBox(BufferedImage image, GuardiansOfTheRiftPlugin littleGuyAiPlugin)
+	GuardiansOfTheRiftInfoBox(BufferedImage image, GuardiansOfTheRiftPlugin guardiansOfTheRiftPlugin)
 	{
-		super(image, littleGuyAiPlugin);
+		super(image, guardiansOfTheRiftPlugin);
 		this.littleGuyAiPlugin = littleGuyAiPlugin;
 		setTooltip("Portal @ 0 (or 5 to 10 ticks late)");
 		setPriority(InfoBoxPriority.NONE);
@@ -44,7 +44,7 @@ class GuardiansOfTheRiftInfoBox extends InfoBox
 	@Override
 	public String getText()
 	{
-		return littleGuyAiPlugin.s;
+		return guardiansOfTheRiftPlugin.s;
 	}
 
 	@Override
